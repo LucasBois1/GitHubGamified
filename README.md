@@ -1,3 +1,5 @@
+<br>
+
 <h3 align="center">
     GitHub Gamified 🎮
 </h3>
