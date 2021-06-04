@@ -21,8 +21,6 @@
     From Lvl 0  →  Lvl 1 you will need <strong>200</strong>xp
 </p>
 
-<br>
-
 <h4 align="center">Next Level XP Formula</h4>
 <p align="center">
     Base XP = 200
