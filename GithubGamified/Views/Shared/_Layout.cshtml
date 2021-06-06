@@ -54,7 +54,6 @@
             <div>
                 <a href="#" class="nav__link nav__logo">
                     <img src="~/logo.png" alt="Logo" class="nav__icon" />
-                    <!--<i class='bx bxs-disc nav__icon'></i>-->
                     <span class="nav__logo-name text-nowrap">Github Gamified</span>
                 </a>
                 <div class="nav__list">
@@ -124,17 +123,20 @@
         </nav>
     </div>
 
+    <hr style="margin: 2%; width: 0;"/>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <!--<footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2021 - GithubGamified - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
-    </footer>
+    </footer>-->
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/main.js" asp-append-version="true"></script>
