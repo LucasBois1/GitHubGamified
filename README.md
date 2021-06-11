@@ -15,6 +15,15 @@
   <a href="https://githubgamified.herokuapp.com">🌐 Website</a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://pyheroku-badge.herokuapp.com/?app=githubgamified"></img>
+  <img src="https://img.shields.io/github/repo-size/LucasBois1/GitHubGamified"></img>
+  <img src="https://img.shields.io/github/last-commit/LucasBois1/GitHubGamified"></img>
+  <img src="https://img.shields.io/github/languages/count/LucasBois1/GitHubGamified"></img>
+</div>
+
 ****
 
 ### Level system ###
@@ -40,3 +49,12 @@
     Quality in the declaration of commits<br>
     Commit streaks 🔥 (+7 days)
 </p>
+
+***
+
+<br>
+
+<div align="center">
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></img>
+</div>
+
