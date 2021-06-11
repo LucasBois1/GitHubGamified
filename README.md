@@ -1,8 +1,11 @@
 <br>
 
 <h3 align="center">
-    GitHub Gamified 🎮
+    GitHub Gamified
 </h3>
+<h5 align="center">
+    Upgrade your github experience
+</h5>
 
 ****
 
