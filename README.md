@@ -1,11 +1,9 @@
 <br>
 
-<h3 align="center">
-    GitHub Gamified
-</h3>
-<h5 align="center">
-    Upgrade your github experience
-</h5>
+<div align="center">
+    <h3>Github Gamified<br>Upgrade your github experience</h3>
+</div>
+
 
 ****
 
